@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "zone": "North Entrance",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 2,
+    "zone": "Loading Dock",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 3,
+    "zone": "Parking Level B",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 4,
+    "zone": "Main Lobby",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 5,
+    "zone": "East Corridor",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 6,
+    "zone": "Warehouse 02",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 7,
+    "zone": "South Gate",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 8,
+    "zone": "Rooftop",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 9,
+    "zone": "Elevator Hall",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 10,
+    "zone": "City Intersection",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 11,
+    "zone": "Reception Desk",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 12,
+    "zone": "Office Floor",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 13,
+    "zone": "Stairwell",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 14,
+    "zone": "Garden Walkway",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 15,
+    "zone": "Garage Exit",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  },
+  {
+    "id": 16,
+    "zone": "Service Entrance",
+    "url": "REPLACE_WITH_DISTINCT_HTTPS_MP4_URL"
+  }
+]
